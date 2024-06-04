@@ -32,6 +32,7 @@ If you run into issues please visit the Hub's discussion forums or submit a tick
 If you have not already created a GitHub account, follow this [GitHub](https://github.com/) link.
 > Click Sign Up and follow the instructions.
 > During setup you will need to verify your email, which is likely the final step.
+:)
 
 ---
 
